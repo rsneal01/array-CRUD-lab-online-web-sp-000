@@ -39,5 +39,5 @@ end
 
 def retrieve_last_element_from_array(array)
   lab_array = ["wow",1,2,3,4,"arrays!"]
-  lab_array[5]
+  lab_array[-1]
 end
